@@ -1,1 +1,1 @@
-This code generates a NN that function as an "AND" gate.
+This code generates a NN that functions as an "AND" gate.
